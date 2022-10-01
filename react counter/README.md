@@ -1,5 +1,5 @@
-# React-weather-app
-simple react weather app using API integration with openWeather, axious and javascript.
+# React-Counter-app
+simple react counter containing the basics of useState and component re-render.
 
 
 ![counter](https://user-images.githubusercontent.com/99191648/193408017-22790c6b-a7ab-4fc7-9c03-dacbde5c96d5.PNG)
