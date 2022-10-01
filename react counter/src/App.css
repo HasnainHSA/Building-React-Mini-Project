@@ -1,0 +1,144 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+font-family: cursive;
+background-color: #90ADC6;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.container{
+  height: 50vh;
+  margin-top: 25%;
+  background: #E9EAEC;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 10px;
+  
+}
+
+.counter{
+  text-align: center;
+  min-height: 450px;
+  padding: 2rem;
+}
+
+h1{
+  color: #333652;
+}
+
+.count{
+  font-size: 28px;
+  margin-left: 7rem;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 12vh;
+  border-radius: 50px;
+  border: solid 1px #333652;
+}
+
+
+
+/* CSS */
+.button-1 {
+  background-color: #e62626;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 30px;
+  line-height: 20px;
+  list-style: none;
+  outline: none;
+  padding: 1px 5px;
+  margin-right: 10px;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  margin-left: -40px;
+  margin-top: 10px;
+  user-select: none;
+
+}
+
+.button-1:hover,
+.button-1:focus {
+  background-color: #cc2020;
+}
+
+
+
+.button-2 {
+  background-color: #ec5126;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 30px;
+  line-height: 20px;
+  list-style: none;
+  outline: none;
+  padding: 1px 5px;
+  margin-right: 10px;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  margin-top: 10px;
+  user-select: none;
+
+}
+
+.button-2:hover,
+.button-2:focus {
+  background-color: #cf4620;
+}
+
+
+
+
+.button-3 {
+  background-color: #ddda27;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 30px;
+  line-height: 20px;
+  list-style: none;
+  outline: none;
+  padding: 1px 5px;
+  margin-right: -8px;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  margin-top: 10px;
+  user-select: none;
+
+}
+
+.button-3:hover,
+.button-3:focus {
+  background-color: #c9c727;
+}  
+
+footer{
+  margin-top: 7.5rem;
+}
