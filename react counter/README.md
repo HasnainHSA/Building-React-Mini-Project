@@ -1,3 +1,15 @@
+# React-weather-app
+simple react weather app using API integration with openWeather, axious and javascript.
+
+
+![counter](https://user-images.githubusercontent.com/99191648/193408017-22790c6b-a7ab-4fc7-9c03-dacbde5c96d5.PNG)
+
+
+Authentication & Hosting : Netlify
+
+Here you go : <a style="color: blue;" herf="https://react-counter-app12.netlify.app/">https://react-counter-app12.netlify.app/</a>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
